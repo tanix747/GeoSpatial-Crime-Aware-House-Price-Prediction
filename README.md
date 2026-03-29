@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # GeoSpatial-Crime-Aware-House-Price-Prediction
-=======
+
 # GeoSpatial Crime-Aware House Price Prediction
 
 ## Problem Statement
@@ -64,7 +64,4 @@ streamlit run app.py
 
 (Add images here: UI, price heatmap, crime heatmap)
 
-## Deployment
 
-Live App: <your-deployment-link>
->>>>>>> 7dce296 (added README and project structure)
