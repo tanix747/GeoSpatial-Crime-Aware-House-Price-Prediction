@@ -48,7 +48,7 @@ project/
 
 ```
 git clone https://github.com/tanix747/GeoSpatial-Crime-Aware-House-Price-Prediction.git
-cd project
+cd GeoSpatial-Crime-Aware-House-Price-Prediction
 
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -61,8 +61,10 @@ streamlit run app.py
 
 ## Screenshots
 
-<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/0a51f992-a59f-42d0-9a6e-42a651e49d83" />
-<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/4fbe5796-7bbc-4fc4-8923-509e8d2c2962" />
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/5a3e81e9-705d-4141-b02f-ebb0b7791ed7" />
+
+<img width="1184" height="796" alt="image" src="https://github.com/user-attachments/assets/36e220fe-e46a-475c-99d9-6b8c9e31c099" />
+
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/84134cb9-e66a-4c2c-b096-3e053b5aa96c" />
 
 
