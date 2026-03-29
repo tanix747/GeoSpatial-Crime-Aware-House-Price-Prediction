@@ -47,7 +47,7 @@ project/
 ## How to Run
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/tanix747/GeoSpatial-Crime-Aware-House-Price-Prediction.git
 cd project
 
 python -m venv venv
@@ -61,6 +61,10 @@ streamlit run app.py
 
 ## Screenshots
 
-(Add images here: UI, price heatmap, crime heatmap)
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/0a51f992-a59f-42d0-9a6e-42a651e49d83" />
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/4fbe5796-7bbc-4fc4-8923-509e8d2c2962" />
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/84134cb9-e66a-4c2c-b096-3e053b5aa96c" />
+
+
 
 
