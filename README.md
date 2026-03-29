@@ -1,5 +1,4 @@
 
-# GeoSpatial-Crime-Aware-House-Price-Prediction
 
 # GeoSpatial Crime-Aware House Price Prediction
 
